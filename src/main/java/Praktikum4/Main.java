@@ -19,6 +19,6 @@ public class Main {
         
         //System.out.println(p.nama);
         //System.out.println(p.usia);
-        System.out.println(p.gaji);
+        //System.out.println(p.gaji);
     }
 }
